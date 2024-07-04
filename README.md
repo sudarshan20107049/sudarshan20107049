@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230">
 
-I am a First year student at Srcas, Coimbatore, pursuing my Masters in Information Technology.<br>
+I am a Final year student at Srcas, Coimbatore, pursuing my Masters in Information Technology.<br>
 And also an optimisitic, curious and well-focused software developer. :sparkles: <br>
 I am also one year experince with Web developer in Frenzo Technologies. :cloud: <br>
 
