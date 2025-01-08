@@ -1,90 +1,87 @@
-Sudarshan Murugan
-Software Engineer
-LinkedIn
-Email
-GitHub
+# 👋 Hi, I’m Sudarshan Murugan  
+### 💻 Software Engineer | 🚀 Full-Stack Developer | 🌐 Open Source Enthusiast  
 
-👨‍💻 About Me
-I’m a passionate Software Engineer with expertise in building scalable web and mobile applications using modern technologies like Next.js, React, React Native, and Node.js. I thrive on solving complex problems, optimizing performance, and delivering seamless user experiences. My curiosity drives me to explore Machine Learning concepts to enhance application functionality and user interfaces.
+---
 
-🔭 Currently Working At: Eyan Retail LLP
-🌱 Learning: Advanced Machine Learning and AI integration in web applications.
-💡 Interests: Full-stack development, UI/UX design, and performance optimization.
-🚀 Goal: To create impactful, maintainable, and visually stunning solutions that align with business objectives.
+## 🛠️ Technologies & Tools  
 
-🛠️ Technologies & Tools
-Development Technologies
-Next.js
-React
-React Native
-Tailwind CSS
-TypeScript
-GraphQL
+### **Frontend Development**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-Server Environments
-Node.js
-Express.js
-REST API
-MongoDB
+### **Backend Development**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Tools & Software
-Git
-GitHub
-Playwright
-Jenkins
-Figma
-Jira
+### **Mobile Development**  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-💼 Work Experience
-Software Developer II
-Eyan Retail LLP | Coimbatore, Tamil Nadu | 2024 – Present
+### **Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-Built responsive and scalable web and mobile applications using Next.js, ReactJS, React Native Expo, TypeScript, and GraphQL APIs.
+---
 
-Integrated dynamic user interfaces with backend systems for seamless functionality.
+## 🚀 Projects  
 
-Explored Machine Learning concepts to enhance UI/UX and optimize application performance.
+### **Eyan Retail LLP**  
+- Built responsive and scalable web and mobile applications using **Next.js**, **React Native Expo**, and **GraphQL APIs**.  
+- Integrated dynamic UIs with backend systems for seamless functionality.  
+- Explored **Machine Learning** concepts to enhance user interfaces and optimize performance.  
 
-Delivered maintainable, visually appealing, and efficient solutions aligned with business goals.
+![Web Development](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif)  
 
-Web Development
+### **Frenzo Technologies**  
+- Designed modern web and mobile apps using **Next.js**, **React.js**, and **Tailwind CSS**, boosting user engagement by 30%.  
+- Developed scalable backend systems with **Node.js** and **Express.js**, reducing page load times by 40%.  
+- Delivered projects for global clients, focusing on usability, functionality, and reliability.  
 
-Software Developer I
-Frenzo Technologies | Coimbatore, Tamil Nadu | 2023 – 2024
+![Mobile Development](https://media.giphy.com/media/3o7TKsQ8gqVrXhq5Zm/giphy.gif)  
 
-Designed and developed modern web and mobile applications using cutting-edge technologies, boosting user satisfaction and engagement.
+---
 
-Engineered responsive and dynamic UIs with Next.js, React.js, Tailwind CSS, and Framer Motion.
+## 📚 Education  
+**Master of Science in Information Technology**  
+Bharathiyar University, Coimbatore, Tamil Nadu  
+*07/2023 – 05/2025*  
 
-Built scalable backend systems using Node.js and Express.js, optimizing server response times by 25% and reducing page load times by 40%.
+---
 
-Integrated email functionality and enhanced usability using Astro and modern web practices.
+## 🏆 Achievements  
+- **Runner-Up** at 24-Hour Socio-Tech Hackathon  
+- **Runner-Up** at Melinia'24 Hackathon  
+- **Presenter** at DIGITGAL Coimbatore Women Conference 2024  
 
-Delivered projects for global clients, focusing on usability, functionality, and reliability.
+---
 
-Mobile Development
+## 🌐 Connect with Me  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudarshan02m@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-murugan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudarshan20107049)  
 
-📚 Education
-Master of Science in Information Technology
-Bharathiyar University | Coimbatore, Tamil Nadu | 07/2023 – 05/2025
+---
 
-🏆 Achievements
-Runner-Up at 24-Hour Socio-Tech Hackathon
+## 📍 Relocation  
+Open to relocating **anywhere** for exciting opportunities!  
 
-Runner-Up at Melinia'24 Hackathon
+---
 
-Presenter at DIGITGAL Coimbatore Women Conference 2024
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshan20107049&show_icons=true&theme=radical)  
 
-Hackathon
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshan20107049&layout=compact&theme=radical)  
 
-📫 Let’s Connect!
-Email: Sudarshan02m@gmail.com
+---
 
-Phone: +91 6383423134
+## 🎥 Watch My Contributions in Action  
+![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
 
-GitHub: sudarshan20107049
+---
 
-LinkedIn: Sudarshan Murugan
-
-🌍 Relocation
-Open to relocating anywhere for exciting opportunities!
+Let’s build something amazing together! 🚀  
